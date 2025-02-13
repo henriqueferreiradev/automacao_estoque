@@ -1,4 +1,4 @@
-# Automacao de Processos
+# Automação de Processos
 
 Este projeto automatiza a inserção de códigos em um sistema, utilizando PyAutoGUI para interação com a interface gráfica e pandas para manipulação de arquivos Excel.
 
